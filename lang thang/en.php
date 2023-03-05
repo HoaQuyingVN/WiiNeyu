@@ -36,6 +36,7 @@ gen = new Array([
  'Disc Ejected',
  'You teleported main menu to you, Minigame are need disc Wii NeYu to play',
  'Saved the data..., You can view block saved from App Wii Savers',
+ 'Fish Plaza',
  'Exit game?',
  'Bye'
 ])
