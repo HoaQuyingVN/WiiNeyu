@@ -1,8 +1,7 @@
 - name: Send a stream message
   uses: zulip/github-actions-zulip/send-message@v1
   with:
-    api-key: 'nL8uQk3A9V2ZetGUrZkQqMz65NS5oNUt'
-
+    api-key: "nL8uQk3A9V2ZetGUrZkQqMz65NS5oNUt"
     email: "pinyin-bot@pinyin.cn"
     organization-url: "https://pinyin.zulipchat.com"
     to: "general"
